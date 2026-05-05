@@ -6,32 +6,31 @@ export function Hero() {
       <Container>
         <div className="fade-in-up">
           <p className="mono text-xs uppercase tracking-[0.2em] text-[color:var(--terracotta)]">
-            Conversion brief · pulsent.ai
+            For careers@withsherpa.ai · YC P26
           </p>
 
           <h1 className="display mt-6 text-4xl font-medium leading-[1.05] tracking-tight text-[color:var(--ink)] md:text-6xl">
-            Sherpa scored you{" "}
-            <span className="text-[color:var(--terracotta)]">76</span>{" "}
-            in 30 seconds.
+            Sherpa&rsquo;s audit reads structure.
             <br />
-            Here&rsquo;s the 30-minute
+            <span className="text-[color:var(--terracotta)]">
+              The contextual layer
+            </span>{" "}
+            is still
             <br />
-            follow-up.
+            founder time.
           </h1>
 
           <p className="mt-8 max-w-2xl text-lg leading-relaxed text-[color:var(--ink-soft)]">
-            Sherpa&rsquo;s audit catches the structural CRO findings on
-            pulsent.ai cleanly &mdash; visual hierarchy, CTA clarity, the
-            obvious tactical fixes. What an automated audit can&rsquo;t do
-            is read those findings against your specific buyer, your
-            specific positioning, and your specific business model.
-            That&rsquo;s the layer below.
+            I ran Sherpa on three sites &mdash; my portfolio, your homepage,
+            and Pulsent (your P26 batchmate). Three reads, one pattern. The
+            audit is right where it has line-of-sight on visual structure, and
+            confidently wrong where it needs business context. The layer that
+            catches the 30% has no system. It&rsquo;s just two of you.
           </p>
 
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-[color:var(--ink-soft)]">
-            One strategic priority across all 13 findings. Six findings to
-            ship in order of leverage. Three experiments worth running
-            first. Built for your team to read and act on.
+            This is a pitch for the role that fills it &mdash; AI-augmented
+            now, embedded in product later.
           </p>
 
           <div className="mt-10 flex items-center gap-3 mono text-[11px] uppercase tracking-[0.18em] text-[color:var(--ink-muted)]">
@@ -39,7 +38,7 @@ export function Hero() {
             <span className="h-1 w-1 rounded-full bg-[color:var(--rule)]" />
             <span>April 2026</span>
             <span className="h-1 w-1 rounded-full bg-[color:var(--rule)]" />
-            <a href="#audit">Begin &darr;</a>
+            <a href="#pulsent">Begin &darr;</a>
           </div>
         </div>
       </Container>
